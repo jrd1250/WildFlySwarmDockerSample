@@ -23,6 +23,12 @@
         -->
     </properties>
     
+    <profiles>
+        <profile>
+            <id>openshift</id>
+        </profile>
+    </profiles>
+    
     <dependencies>
         <dependency>
             <groupId>javax</groupId>
